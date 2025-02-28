@@ -1,5 +1,5 @@
-1. İş Bankası ve TCMB döviz kurları verilerini güncel olarak çeker
+1. Bu verileri karşılaştırır
 2. Bu verileri listeler
-3. Bu verileri karşılaştırır
+3. İş Bankası ve TCMB döviz kurları verilerini güncel olarak çeker
 4. hafta sonu ve hafta içi 15.30'a kadar güncel veriler listelenemez
 5. Kullanıcı dostu arayüze sahiptir.
